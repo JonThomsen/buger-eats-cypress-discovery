@@ -1,0 +1,50 @@
+{
+  "signup": {
+      "name": "Jonathan Thomsen",
+      "cpf": "00000014141",
+      "email": "teste@teste.com",
+      "whatsapp": "47999999999",
+      "address": {
+        "postalcode": "89012130",
+        "street": "Rua Paraíba",
+        "number": "999",
+        "details": "Em frente a rua Dev",
+        "district": "Victor Konder",
+        "city_state": "Blumenau/SC"
+      },
+      "delivery_method": "Moto",
+      "cnh": "images/cnh-digital.jpg"
+  },
+  "cpf_inv": {
+      "name": "Arnaldo",
+      "cpf": "X00000141AA",
+      "email": "teste2@teste.com",
+      "whatsapp": "48999999999",
+      "address": {
+        "postalcode": "89012130",
+        "street": "Rua Paraíba",
+        "number": "999",
+        "details": "Em frente a rua Dev",
+        "district": "Victor Konder",
+        "city_state": "Blumenau/SC"
+      },
+      "delivery_method": "Moto",
+      "cnh": "images/cnh-digital.jpg"
+  },
+  "email_inv": {
+    "name": "Jonathan Thomsen",
+    "cpf": "00000014141",
+    "email": "jonathan.com.br",
+    "whatsapp": "47999999999",
+    "address": {
+    "postalcode": "89012130",
+      "street": "Rua Paraíba",
+      "number": "999",
+      "details": "Em frente a rua Dev",
+      "district": "Victor Konder",
+      "city_state": "Blumenau/SC"
+    },
+    "delivery_method": "Moto",
+    "cnh": "images/cnh-digital.jpg"
+  }
+}
